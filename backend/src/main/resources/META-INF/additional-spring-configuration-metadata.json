@@ -1,0 +1,27 @@
+{"properties": [
+  {
+    "name": "image.tesseract.inst.loc",
+    "type": "java.lang.String",
+    "description": "A description for 'image.tesseract.inst.loc'"
+  },
+  {
+    "name": "spring.session.store-type",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.session.store-type'"
+  },
+  {
+    "name": "front.end.host",
+    "type": "java.lang.String",
+    "description": "A description for 'front.end.host'"
+  },
+  {
+    "name": "front.end.activate.api",
+    "type": "java.lang.String",
+    "description": "A description for 'front.end.activate.api'"
+  },
+  {
+    "name": "allow.credentials",
+    "type": "java.lang.String",
+    "description": "A description for 'allow.credentials'"
+  }
+]}
